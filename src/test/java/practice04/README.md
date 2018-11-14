@@ -12,6 +12,9 @@ Then create class Worker to inherit class Person. There are fields name, age, a 
 
 >My name is Tom. I am 21 years old. I am a Worker. I have a job.
 
+
+
+
 This text from all these three classes
 
 >My name is Tom. I am 21 years old.
