@@ -15,7 +15,7 @@ Klass has a assignLeader method which receive a Student instance to assign the l
 
 otherwise the method introduce should just bahave like before.
 
-Klass also has a appendMember method which receive a Student instance to add a  student to this Klass.
+Klass also has a appendMember method which receive a Student instance to add a student to this Klass.
 If a student is not in the Klass, then assignLeader to the student will fail and return:
 
 >It is not one of us.
